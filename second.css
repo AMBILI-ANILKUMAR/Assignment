@@ -1,0 +1,17 @@
+.one{
+	background-color: gray; 
+	height: 600px;
+	width: 600px;
+}
+.one_child{
+	height: 400px;
+	width: 400px;
+	background-color: red;
+}
+
+.second_child{
+	background-color: yellow;
+	font-size: 20px;
+	height: 200px;
+	width: 300px;
+}
